@@ -8,7 +8,7 @@ public class AdditionExamples2 {
 		int a = 20;
 		int b = 8;
 		
-		int result = a-b;
+		int result = a + b;
 		System.out.println(result);
 	}
 	
